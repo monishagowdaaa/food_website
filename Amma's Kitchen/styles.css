@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(167, 220, 166);
+    color:rgb(24, 23, 23);
+}
+
+.custom-navbar{
+    background-color: rgb(27, 189, 127);
+    font-weight: bold;
+}
+.navbar-nav .nav-link {
+    color: rgb(16, 16, 16) ; 
+}
+#Header a:hover
+{
+    color: rgb(5, 30, 5);
+
+}
+#About{
+    margin-top:100px;
+    margin-left:100px;
+    font-size: 30px;
+    
+}
+
+.custom-card {
+    background-color: rgb(198, 203, 197); 
+     
+    margin-top: 50px;
+    border-radius: 50px; 
+    box-sizing: border-box;
+
+
+}
+
+.image-container {
+    display:flex;
+    /* Set width for the container if needed */
+    gap: 15px;
+  }
+  
+  .i-container{
+    display: flex;
+    gap:150px;
+  }
+  
+
+
+#AboutUs{
+    margin-top:100px;
+    margin-left:40px;
+    text-align: center;
+
+}
+
+
+#Recipes{
+    margin-top:100px;
+    margin-left:40px;
+
+}
+
+#Contact{
+    margin-top:100px;
+    margin-left:40px;
+
+}
+
+.container-fluid {
+    padding: 60px 50px;
+    
+  }
+
+  .hero{
+    width: 100%;
+    height: auto;
+    
+    background-position: center;
+    
+    text-align: center;
+   
+    margin-bottom: 20px;
+}
+
+
+
